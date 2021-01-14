@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+CHEAT_SHEET_PATH="/home/pts/repos/cheatSheets/main.md"
+
+vim $CHEAT_SHEET_PATH
+

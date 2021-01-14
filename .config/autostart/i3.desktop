@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=i3
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_CA]=i3
+Name=i3
+Comment[en_CA]=tilling wm
+Comment=tilling wm
